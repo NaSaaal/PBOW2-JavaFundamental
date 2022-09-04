@@ -26,9 +26,7 @@ public class soal1 {
 			} catch (Exception e) {
 				System.out.println("can’t be fitted anywhere");
 			}
-			System.out.print("\n\nDo you want quit ? (q/Q) : " );
-			char getChar = input.next().charAt(0);
-			isStop = getChar == 'q' || getChar == 'Q'? true : false;
+		
 		} while (isStop != true);
 		
 	}
