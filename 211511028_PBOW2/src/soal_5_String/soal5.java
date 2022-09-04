@@ -11,9 +11,9 @@ public class soal5 {
 		String inputStringA, inputStringB;
 		int jumlahChar;
 		
-		System.out.print("masukkan String 1 : ");
+		System.out.print("masukkan String pertama : ");
 		inputStringA = input.nextLine();
-		System.out.print("masukkan String 2 : ");
+		System.out.print("masukkan String kedua : ");
 		inputStringB = input.nextLine();
 		
 		jumlahChar = inputStringA.length() + inputStringB.length();

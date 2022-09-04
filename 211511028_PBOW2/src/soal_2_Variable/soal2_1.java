@@ -5,10 +5,7 @@ package soal_2_Variable;
 public class soal2_1 {
 
 	public static void main(String[] args) {
-
-		/*
-		 * Contoh 1
-		 */
+//contoh 1
 
 		final double CM_PER_INCH = 2.54;
 		double paperWidth = 8.5;
